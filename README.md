@@ -66,4 +66,4 @@ automacaotestsbookstore/
 
 ## ✍️ Autor
 
-Gustavo Supranzetti – @gttiGS
+Gustavo Supranzetti – [@gttiGS](https://github.com/gttiGS)
