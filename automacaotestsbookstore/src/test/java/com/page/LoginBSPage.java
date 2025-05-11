@@ -37,8 +37,7 @@ public class LoginBSPage {
 	
 	public MainBSPage clickLogginValid() {
 		WebElement btnLogar = getDriver().findElement(By.xpath("//input[@value='Login']"));
-		btnLogar.click();
-		
+		btnLogar.click();		
 		return new MainBSPage();
 	}
 
